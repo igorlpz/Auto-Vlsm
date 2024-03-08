@@ -3,23 +3,23 @@
 *Este script ha sido creado para aprender y el codigo puede no ser el mejor, aceptamos mejoras en pull requests*
 
 ## Prerequisitos
- - Python3  
+ - Python3
+ - Git
 
 ## Instalacion
 
 ### Windows
-
 ```cmd copy showLineNumbers
-git clone https://github.com/igorlpz/VLSM.git
-cd VLSM
-python3 VLSM.py
+git clone [https://github.com/igorlpz/VLSM.git](https://github.com/igorlpz/Auto-Vlsm.git)
+cd Auto-Vlsm
+python3 auto-vlsm.py
 ```
 
-### Linux Debian
+### Linux
 ```bash copy showLineNumbers
 git clone https://github.com/igorlpz/VLSM.git
-cd VLSM
-python3 VLSM.py
+cd Auto-Vlsm
+python3 auto-vlsm.py
 ```
 
 ### Instalacion manual
@@ -30,7 +30,7 @@ Descarga el script desde el repositorio de [github](https://github.com/igorlpz/A
 Para el uso de esta herramienta la abriremos desde la terminal con el siguiente comando:
 
 ```bash copy 
-python3 AUTO-VLSM.py
+python3 auto-vlsm.py
 ```
 
 Una vez ejecutado, rellena la informacion solicitada.
