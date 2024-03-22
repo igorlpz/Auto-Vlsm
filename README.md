@@ -22,9 +22,6 @@ cd Auto-Vlsm
 python3 auto-vlsm.py
 ```
 
-### Instalacion manual
-Descarga el script desde el repositorio de [github](https://github.com/igorlpz/Auto-Vlsm)
-
 ## Uso de la herramienta
 
 Para el uso de esta herramienta la abriremos desde la terminal con el siguiente comando:
