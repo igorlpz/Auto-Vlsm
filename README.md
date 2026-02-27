@@ -12,14 +12,6 @@
 ```cmd copy showLineNumbers
 git clone https://github.com/igorlpz/Auto-Vlsm.git
 cd Auto-Vlsm
-python3 auto-vlsm.py
-```
-
-### Linux
-```bash copy showLineNumbers
-git clone https://github.com/igorlpz/Auto-Vlsm.git
-cd Auto-Vlsm
-python3 auto-vlsm.py
 ```
 
 ## Uso de la herramienta
